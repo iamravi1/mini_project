@@ -11,10 +11,6 @@ This project focuses on classifying and predicting intrusion attempts in compute
 - [Dataset Details](#dataset-details)
 - [Software and Hardware Requirements](#software-and-hardware-requirements)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Results](#results)
-- [License](#license)
-- [Author](#author)
 
 ---
 
