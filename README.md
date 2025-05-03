@@ -15,9 +15,6 @@ This project focuses on classifying and predicting intrusion attempts in compute
 
 ---
 
-## 📄 Paper Implemented
-- [Research Paper Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4256380)
-
 ## 🚀 Project Overview
 
 With the increasing rate of network intrusions, intrusion detection systems (IDS) have become essential. This project implements an Artificial Neural Network (ANN) to detect five major classes of attacks based on the KDD CUP'99 dataset:
@@ -28,6 +25,11 @@ With the increasing rate of network intrusions, intrusion detection systems (IDS
 - PROBE
 
 The goal is to build a model that can predict whether a given network connection record represents a normal or malicious activity.
+
+---
+
+## 📄 Paper Implemented
+- [Research Paper Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4256380)
 
 ---
 
