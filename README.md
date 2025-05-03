@@ -1,4 +1,4 @@
-# Intrusion Detection Using Artificial Neural Networks (ANN)
+# DDoS Detection with Deep Learning Models for Network Security
 
 This project focuses on classifying and predicting intrusion attempts in computer networks using Artificial Neural Networks (ANN). Using the KDD CUP'99 dataset, we trained a neural network to accurately detect five major types of network attacks, improving early detection and response in cybersecurity systems.
 
