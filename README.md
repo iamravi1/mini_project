@@ -7,12 +7,16 @@ This project focuses on classifying and predicting intrusion attempts in compute
 ## 📌 Table of Contents
 
 - [Project Overview](#project-overview)
+- [Paper Implemented](#Paper-Implemented)
 - [Key Features](#key-features)
 - [Dataset Details](#dataset-details)
 - [Software and Hardware Requirements](#software-and-hardware-requirements)
 - [Installation](#installation)
 
 ---
+
+## 📄 Paper Implemented
+- [Research Paper Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4256380)
 
 ## 🚀 Project Overview
 
